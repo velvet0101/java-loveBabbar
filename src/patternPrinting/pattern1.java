@@ -3,9 +3,9 @@ package patternPrinting;
 import java.util.Scanner;
 
 public class pattern1 {
-    static void main() {
+     public  static void main() {
 
-
+        //solid pattern
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
