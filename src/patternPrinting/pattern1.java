@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class pattern1 {
      public  static void main() {
 
-        //solid pattern
+        //solid patternues
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
