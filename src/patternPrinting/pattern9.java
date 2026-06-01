@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class pattern9 {
      public static void main() {
-         //Scanner sc= new Scanner(System.in);
-         //int n = sc.nextInt();
-         int n=5;
+         Scanner sc= new Scanner(System.in);
+         int n = sc.nextInt();
+
          for (int i =1; i<=n;i++){
             if (i<n) {
                 for (int j = 1; j <= i; j++) {
