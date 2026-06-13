@@ -70,7 +70,7 @@ public class basicMath {
 
 
     //palindrome number
-
+//ok
     static void reverseanum(int num) {
 //        int ans=0;
 //        while (num!=0){
